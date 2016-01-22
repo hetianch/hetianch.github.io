@@ -1,0 +1,24 @@
+@media (min-width: 48em) {
+  .sidebar-anchored .sidebar-toggle {
+    display: none;
+  }
+  .sidebar-anchored .wrap {
+    width: calc(100% - 14rem);
+    margin-left: 14rem;
+  }
+  .sidebar-anchored .sidebar {
+    left: 0;
+    z-index: 10;
+    visibility: visible;
+  }
+}
+/*MathJax Overrides*/
+.MathJax_Display {
+  background: #f5f5f5;
+}
+.MathJax {
+  display: inline-block !important;
+  background: #f5f5f5;
+  border-radius: 2px;
+  padding: 0 8px !important;
+}

@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Hetian Chen
+tagline:          'Master Student at USC'
+description:      'My Personal Site and Blog'
+bio:			  "I'm a Master student in Computer Science and Biostatistics(PhD candidate). I love data science and have passion in machine learning."
+url:              hetianch.github.io 
+baseurl:          /
+
+author:
+  name:           'Hetian Chen'
+  url:            'hetianch.github.io'
+  email:          'hetian.chen.usc@gmail.com'
+  github_url:     'https://github.com/hetianch'
+  linkedin_url:   'https://www.linkedin.com/in/hetianch'
+
+paginate:         5
+
+# Dependencies
+gems:
+- jekyll-paginate
+
+redcarpet:
+    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+
+# Custom vars
+version:          1.0.0
+
