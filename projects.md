@@ -4,7 +4,7 @@ title: Projects
 ---
 ## Personal
 
-[Zillow-House-Research](https://github.com/hetianch/Zillow-House-Research) — Exploratory study of the real estate market in major silicon valley cities. Scraped Zillow HTML, processed results by Apache Hadoop, crated D3.js-style visualization by Bokeh, and built app in Flask.  
+[Zillow-House-Research](https://github.com/hetianch/Zillow-House-Research) — Exploratory study of the real estate market in major silicon valley cities. Scraped Zillow HTML, processed results by Apache Hadoop/MapReduce, crated D3.js-style visualization by Bokeh, and built app in Flask.  
 
 <!-- [Yelp-Restaurant-Hygiene-Prediction] Need to fill up this part-->
 
